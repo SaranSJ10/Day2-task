@@ -1,0 +1,8 @@
+Window objects:
+*In browser JavaScript act as an Object
+*Window is an global object which contains everything of JS. Java script have to be written under this global window object.
+*By default JS is written inside window.
+
+Document object:
+*Document object contains all the HTML datas in a client in which JS can be incoporated.
+*By default HTML is written inside Document.
